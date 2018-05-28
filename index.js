@@ -17,9 +17,12 @@ function produceTipCalculator(tip) {
   };
 }
 
-class createDriver {
-  constructor(name) {
+function createDriver() {
+  return class Driver {
+      constructor(name) {
     this.name = name   
   }
+  }
+
     
 }
