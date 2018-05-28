@@ -17,7 +17,7 @@ function produceTipCalculator(tip) {
   };
 }
 
-class createDriver() {
+class createDriver {
  
     
   }
