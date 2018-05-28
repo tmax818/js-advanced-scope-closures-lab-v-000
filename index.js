@@ -21,7 +21,6 @@ function createDriver(driverId) {
   return class Driver {
       constructor(name, driverId) {
         this.name = name
-        this.driverId += 1;
   }
   }
 
