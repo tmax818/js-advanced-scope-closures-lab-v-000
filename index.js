@@ -22,7 +22,7 @@ function createDriver(driverId) {
       constructor(name, driverId) {
         this.name = name
   }
-    driverId() {
+    Id() {
       this.driverId++
     }
   }
