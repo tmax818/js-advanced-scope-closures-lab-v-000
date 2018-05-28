@@ -16,3 +16,4 @@ function produceTipCalculator(tip) {
     return fare * tip;
   };
 }
+
