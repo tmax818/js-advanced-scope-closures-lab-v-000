@@ -19,7 +19,7 @@ function produceTipCalculator(tip) {
 
 class createDriver {
   constructor(name) {
-    
+    this.name = name   
   }
     
 }
